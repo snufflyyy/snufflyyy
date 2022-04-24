@@ -9,7 +9,7 @@ i am always working on stuff with linux
 i have also created a fps movement system for unity based off brackeys fps movement system with some extra features (sprinting, headbobbing, etc)
 i (try) to work on libvert and vifo
 
-#### goodbye!
+## goodbye!
 
 if you want to contact me (for some reason)
 my discord is snuffly#8814
