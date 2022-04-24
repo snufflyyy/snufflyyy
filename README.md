@@ -1,16 +1,15 @@
-### Hi there 👋
+### hello!
 
-<!--
-**snufflyyy/snufflyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is snuffly and i like to make games in unity, and mess around in sdl2.
+i am curently work/learning unreal engine 5, but i am currently failing because of the hard to understand way they use c++
 
-Here are some ideas to get you started:
+### projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i am always working on stuff with linux
+i have also created a fps movement system for unity based off brackeys fps movement system with some extra features (sprinting, headbobbing, etc)
+i (try) to work on libvert and vifo
+
+### goodbye!
+
+if you want to contact me (for some reason)
+my discord is snuffly#8814
