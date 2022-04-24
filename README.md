@@ -1,7 +1,7 @@
 # hello!
 
 my name is snuffly and i like to make games in unity, and mess around in sdl2.
-i am curently work/learning unreal engine 5, and making cool gmod addons
+i am curently working/learning unreal engine 5, and making cool gmod addons
 
 ### projects
 
