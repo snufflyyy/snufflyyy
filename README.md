@@ -6,7 +6,7 @@ my name is snuffly and i like to make games and stuff.
 
 i am always working on stuff with linux
 
-i am making a game engine called honeymoon
+i am making a game in unity
 
 ### goodbye!
 
